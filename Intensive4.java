@@ -31,6 +31,7 @@ public class Intensive4 {
 
     // switch statements...
     //... selects certain blocks of code to be executed 
+    // default command executes if no matches are made
 
     int day = 3;
     switch (day) {
